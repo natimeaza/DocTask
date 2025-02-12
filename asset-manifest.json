@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/DocTask/static/css/main.57741dfc.css",
+    "main.js": "/DocTask/static/js/main.73d5ff06.js",
+    "static/media/Dr.jpeg": "/DocTask/static/media/Dr.34effbce1b66007381b7.jpeg",
+    "index.html": "/DocTask/index.html",
+    "main.57741dfc.css.map": "/DocTask/static/css/main.57741dfc.css.map",
+    "main.73d5ff06.js.map": "/DocTask/static/js/main.73d5ff06.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.57741dfc.css",
+    "static/js/main.73d5ff06.js"
+  ]
+}
